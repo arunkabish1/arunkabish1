@@ -33,8 +33,8 @@ I'm a passionate software developer from India, specializing in web development 
 
 ### 🔭 Current Projects
 
-- **[Project Name](https://github.com/arunkabish1/wd401)**
-- **[Last Project](https://github.com/arunkabish1/wd301)**
+- **[Wd401](https://github.com/arunkabish1/wd401)**
+- **[Wd301](https://github.com/arunkabish1/wd301)**
 
 ---
 
